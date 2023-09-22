@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun App() {
-    Text(text = "Hello World!")
+    Text(text = "")
 }
 
 
